@@ -3,5 +3,5 @@
 ![](https://komarev.com/ghpvc/?username=einfachniemmand)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=90&pause=90&color=F7D3B9&vCenter=true&width=70&height=15&lines=My+skills)](https://github.com/einfachniemmand)
+<a id='skills' href="#skills" style='display:block'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=90&pause=90&color=F7D3B9&vCenter=true&width=70&height=15&lines=My+skills" alt="Typing SVG" /></a>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,github,linux,postman)](https://github.com/einfachniemmand#)
