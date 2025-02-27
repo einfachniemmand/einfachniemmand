@@ -6,7 +6,7 @@
 I'm a front-end developer with a focus on JavaScript (dont judge) and some backend knowledge, plus experience in Python and <a href="#skills">other languages</a>. I enjoy building user-friendly web applications, though I’m not always working on projects (I touch grass from time to time). I also attend the Helmholtz-Gymnasium Potsdam and have a strong interest in nature and psychology.
 <br><br><a id='socials' href="#socials" style='display:block'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=400&pause=10000&color=F7D3B9&vCenter=true&width=70&height=15&lines=%23+Socials" alt="Typing SVG" /></a><br>
 [![](https://img.shields.io/badge/reddit-einfachniemmand-ff4500)](https://reddit.com/u/einfachniemmand)
-[![](https://img.shields.io/badge/discord-@brown_concrete-738adb)](https://discord.com/app)
+[![](https://img.shields.io/badge/discord-@einfachniemmand-738adb)](https://discord.com/app)
 <br><br>
 <a id='skills' href="#skills" style='display:block'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=500&pause=10000&color=F7D3B9&vCenter=true&width=70&height=15&lines=%23+My+skills" alt="Typing SVG" /></a><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,github,linux,postman,py,discord)](#skills)
