@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=100&size=22&duration=750&pause=1000&color=F7D3B9&vCenter=true&repeat=false&width=500&lines=%F0%9F%93%9A++german+student;%F0%9F%92%BB++web+designer;%F0%9F%A7%A0++psychology;%F0%9F%8E%A7++music+enthusiast;%F0%9F%A4%93++nerdy+programmer;%F0%9F%97%BA%EF%B8%8F++traveler;%F0%9F%94%97++github%2Feinfachniemmand)](https://github.com/einfachniemmand/)
 [![HeaderImage](https://scriptsandstyles.neocities.org/github-profile/head.png?c=2)](https://github.com/einfachniemmand/)
 ![](https://komarev.com/ghpvc/?username=einfachniemmand)
-<a id='about' href="#about" style='display:block'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=90&pause=70&color=F7D3B9&vCenter=true&width=70&height=15&lines=%23+About+me" alt="Typing SVG" /></a><br>
+<br><a id='about' href="#about" style='display:block'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=90&pause=70&color=F7D3B9&vCenter=true&width=70&height=15&lines=%23+About+me" alt="Typing SVG" /></a><br>
 
 
 <a id='skills' href="#skills" style='display:block'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=90&pause=70&color=F7D3B9&vCenter=true&width=70&height=15&lines=%23+My+skills" alt="Typing SVG" /></a><br>
